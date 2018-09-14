@@ -1,0 +1,2 @@
+# StorageCoinExample
+storage project
